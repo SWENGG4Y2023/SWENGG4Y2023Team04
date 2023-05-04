@@ -77,3 +77,32 @@ The constraints are as follows-
 This software system is delivered with an Instruction manual for the stakeholders to use.Analysis reports, designs, well-maintained software, test cases and test suites were also delivered at the end of the project.
 ### 2.7 Assumptions and Dependencies
 After this software system maintenance is done, the Store IT Personal addition, deletion and update process will be done more quickly and smoothly.Store IT Personal will not encounter a synchronization problem on the tablet screen.They will make requests of other customers faster and more comfortable experience.Achieving these desired assumptions depends on the success of successful engineers,database administrators and front-end developers.
+
+## 3. System Requirements
+### Functional Requirements:
+This section provides requirements overview of the system. Various functional modules that can be implemented by the system such as, 
+
+### **3.1 Description**
+
+`Registration`
+If the customer wants to buy the product the he/she must be registered, unresgistered user cannot go to the shopping cart.
+
+`Login`
+Customer logins to the system by entering valid user id and password for the shopping.
+
+`Changes to Cart`
+Changes to cart means the customer after login or registration can make order or cancel order of the product from the shopping cart.
+
+`Payment`
+In this system we are dealing the various modes of payment that is by Cash, Credit Card, Debit Card etc.
+
+`Logout`
+After ordering or surfing for the product, customer has to logout.
+
+`Report Generation`
+After ordering for the product,the system will sent one copy of the bill to the customer’s Email-address and another one for the system data base.
+
+
+
+
+
