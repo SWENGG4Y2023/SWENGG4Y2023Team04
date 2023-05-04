@@ -33,11 +33,11 @@ This document is created for,
 This system provides an easy solution for customers to buy the product without going to the shop and also to shop owner to sale the product.
 This proposed system can be used by any naive users and it does not require any educational level, experience or technical expertise in computer field but it will be of good use if user has the good knowledge of how to operate a computer.
 
-# 2.Overall Description
-## 2.1 Product Perspective
->Amazon Online Shopping application  has been serving as Aisa's one of the largest and most extensive e-commerce site since 1994. This software system can be used through mobile application and website. This software system is not a subcomponent of any system.It started in India in june 2013.
-## 2.2 Product Functions
->This software system is expected to offer the following services:
+## 2.Overall Description
+### 2.1 Product Perspective
+Amazon Online Shopping application  has been serving as Aisa's one of the largest and most extensive e-commerce site since 1994. This software system can be used through mobile application and website. This software system is not a subcomponent of any system.It started in India in june 2013.
+### 2.2 Product Functions
+This software system is expected to offer the following services:
 1. `Store IT Personnel`
     * They analyze the product sales
     * They have to add new products in system through user interface
@@ -53,27 +53,27 @@ This proposed system can be used by any naive users and it does not require any 
     * Have to give some personal information (Address, Phone Number, TC Number, Mail Address)  during registration
 4.  `Supplier`
     * Send order and prepare order
-## 2.3 User Classes and Characteristics
+### 2.3 User Classes and Characteristics
 1. `Store IT personnel:`
->It adds new products to the database via user interface and makes necessary updates. It keeps track of the product stocks in the store where it is responsibleand the changes which may occur and occur.
+It adds new products to the database via user interface and makes necessary updates. It keeps track of the product stocks in the store where it is responsibleand the changes which may occur and occur.
 2. `Customer:`
->Customers can see all products sold at online stores. May be a member to shop. Separate  can buy the products it adds. They share certain personal information.
+Customers can see all products sold at online stores. May be a member to shop. Separate  can buy the products it adds. They share certain personal information.
 3. `Store Personnel:`
->Can see instantly orders, prepare order to supplier and products fall from stock.
+Can see instantly orders, prepare order to supplier and products fall from stock.
 
 4. `Supplier:`
->Brings the product to the application
+Brings the product to the application
 
-## 2.4 Operating Environment
->This software system is  Works in -Android OS ,Windows and  Linux  version. And uses technologies like "cookies", "pixel tags" and "web beacons" . It is Developed in Microsoft Visual Studio, ASP.NET with C#, JSON, CSS, Java script, jQuery,HTML.
-## 2.5 Design and Implementation Constraints
-> The constraints are as follows-
+### 2.4 Operating Environment
+This software system is  Works in -Android OS ,Windows and  Linux  version. And uses technologies like "cookies", "pixel tags" and "web beacons" . It is Developed in Microsoft Visual Studio, ASP.NET with C#, JSON, CSS, Java script, jQuery,HTML.
+### 2.5 Design and Implementation Constraints
+The constraints are as follows-
 1. This software system will be used by such a mass range of people so the software system must deal with this weight.
 2. It should store all users' data without any  problem in associating this data.
 3. Application have to ensure the safety of the data.
 4. We could not get any definitive information about the database
 
-## 2.6 User Documentation
->This software system is delivered with an Instruction manual for the stakeholders to use.Analysis reports, designs, well-maintained software, test cases and test suites were also delivered at the end of the project.
-## 2.7 Assumptions and Dependencies
->After this software system maintenance is done, the Store IT Personal addition, deletion and update process will be done more quickly and smoothly.Store IT Personal will not encounter a synchronization problem on the tablet screen.They will make requests of other customers faster and more comfortable experience.Achieving these desired assumptions depends on the success of successful engineers,database administrators and front-end developers.
+### 2.6 User Documentation
+This software system is delivered with an Instruction manual for the stakeholders to use.Analysis reports, designs, well-maintained software, test cases and test suites were also delivered at the end of the project.
+### 2.7 Assumptions and Dependencies
+After this software system maintenance is done, the Store IT Personal addition, deletion and update process will be done more quickly and smoothly.Store IT Personal will not encounter a synchronization problem on the tablet screen.They will make requests of other customers faster and more comfortable experience.Achieving these desired assumptions depends on the success of successful engineers,database administrators and front-end developers.
