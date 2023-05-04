@@ -39,20 +39,20 @@ This proposed system can be used by any naive users and it does not require any 
 ## 2.2 Product Functions
 >This software system is expected to offer the following services:
 1. `Store IT Personnel`
-   > * They analyze the product sales
-   > * They have to add new products in system through user interface
-    >* They can see instantly orders and analyze them
-   > * Follow closely for any possible modifications needed
+    * They analyze the product sales
+    * They have to add new products in system through user interface
+    * They can see instantly orders and analyze them
+    * Follow closely for any possible modifications needed
 2.  `Store Personnel`
-   > * Can see instantly orders
-    >* Prepare order to supplier
-    >* Products fall from stocks
+    * Can see instantly orders
+    * Prepare order to supplier
+    * Products fall from stocks
 3.  `Customers`
-    >* Can see all products in Online Shopping Platform.
-    >* Have to register for shopping. 
-    >* Have to give some personal information (Address, Phone Number, TC Number, Mail Address)  during registration
+    * Can see all products in Online Shopping Platform.
+    * Have to register for shopping. 
+    * Have to give some personal information (Address, Phone Number, TC Number, Mail Address)  during registration
 4.  `Supplier`
-    >* Send order and prepare order
+    * Send order and prepare order
 ## 2.3 User Classes and Characteristics
 1. `Store IT personnel:`
 >It adds new products to the database via user interface and makes necessary updates. It keeps track of the product stocks in the store where it is responsibleand the changes which may occur and occur.
@@ -68,10 +68,10 @@ This proposed system can be used by any naive users and it does not require any 
 >This software system is  Works in -Android OS ,Windows and  Linux  version. And uses technologies like "cookies", "pixel tags" and "web beacons" . It is Developed in Microsoft Visual Studio, ASP.NET with C#, JSON, CSS, Java script, jQuery,HTML.
 ## 2.5 Design and Implementation Constraints
 > The constraints are as follows-
->1. This software system will be used by such a mass range of people so the software system must deal with this weight.
->2. It should store all users' data without any  problem in associating this data.
->3. Application have to ensure the safety of the data.
->4. We could not get any definitive information about the database
+1. This software system will be used by such a mass range of people so the software system must deal with this weight.
+2. It should store all users' data without any  problem in associating this data.
+3. Application have to ensure the safety of the data.
+4. We could not get any definitive information about the database
 
 ## 2.6 User Documentation
 >This software system is delivered with an Instruction manual for the stakeholders to use.Analysis reports, designs, well-maintained software, test cases and test suites were also delivered at the end of the project.
