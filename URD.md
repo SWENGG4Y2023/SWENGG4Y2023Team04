@@ -7,9 +7,9 @@
 |   |
 | Goal in context: |  To enable Customer to buying items from shopping cart and to complete the payment successfully |
 |   |
-| Preconditions: |  |
+| Preconditions: |  |  A full internet connection is required for Online Shopping System.
 |   |
-| Trigger:  |   |
+| Trigger:  |   | sensation, anticipation or social belonging.
 |   |
 | Scenario:|
 |    1. |
@@ -23,7 +23,7 @@
 |    3. |
 |    4. |
 |   |
-| Priority: |   |
+| Priority: |   | 
 |   |
 | When available:|  |
 |   |
