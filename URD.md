@@ -1,4 +1,4 @@
-# Template for Use-Case text Scenario
+# Use-Case text Scenario
 
 
 | Use-case: |Online Shopping System|
