@@ -1,0 +1,62 @@
+@startuml
+package "Client-Side" {
+  [Web Browser/Mobile App]
+  [User Interface]
+}
+
+package "Server-Side" {
+  [Web Server]
+  [Application Layer]
+  [Authentication and Authorization]
+  [API Gateway]
+  [Product Catalog]
+  [Shopping Cart]
+  [Order Management]
+  [Payment Processing]
+  [Database]
+  [Caching]
+  [CDN]
+}
+
+package "Third-Party Integrations" {
+  [Payment Gateways]
+  [Shipping Providers]
+  [External APIs]
+}
+
+package "Infrastructure" {
+  [Load Balancers]
+  [Auto-Scaling]
+  [CDN]
+  [Database Replication and Backup]
+  [Security Measures]
+}
+
+package "Analytics and Monitoring" {
+  [Logging]
+  [Analytics Tools]
+  [Monitoring Tools]
+}
+
+[Web Browser/Mobile App] --> [Web Server]
+[Web Server] --> [Application Layer]
+[Application Layer] --> [Authentication and Authorization]
+[Application Layer] --> [API Gateway]
+[API Gateway] --> [Product Catalog]
+[API Gateway] --> [Shopping Cart]
+[API Gateway] --> [Order Management]
+[API Gateway] --> [Payment Processing]
+[API Gateway] --> [Database]
+[API Gateway] --> [Caching]
+[API Gateway] --> [CDN]
+[API Gateway] --> [Payment Gateways]
+[API Gateway] --> [Shipping Providers]
+[API Gateway] --> [External APIs]
+[Database] --> [Database Replication and Backup]
+[Web Server] --> [Load Balancers]
+[Web Server] --> [Security Measures]
+[CDN] --> [Load Balancers]
+[Logging] --> [Analytics Tools]
+[Logging] --> [Monitoring Tools]
+
+@enduml
